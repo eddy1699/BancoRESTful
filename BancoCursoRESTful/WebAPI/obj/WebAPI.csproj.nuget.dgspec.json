@@ -93,14 +93,14 @@
         }
       }
     },
-    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj": {
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj",
         "packagesPath": "/Users/edgardo/.nuget/packages/",
-        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/obj/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edgardo/.nuget/NuGet/NuGet.Config"
@@ -131,9 +131,179 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
+        "packagesPath": "/Users/edgardo/.nuget/packages/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edgardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj": {
+                "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+        "packagesPath": "/Users/edgardo/.nuget/packages/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edgardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj": {
+                "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj"
+              },
+              "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj": {
+                "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj"
+              },
+              "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {
+                "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "MediatR": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
