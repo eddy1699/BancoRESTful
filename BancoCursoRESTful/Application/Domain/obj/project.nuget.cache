@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6X9d8XHqHIp/M0bG8hCENe45izKrH0fxJdrxm7lCE7TJ2hNotcS15VdUQ32pVxT1O8wPszQgZ3qe5kFqjfxJDg==",
+  "success": true,
+  "projectFilePath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/edgardo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

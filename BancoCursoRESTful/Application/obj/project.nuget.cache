@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfKgeawlukKKoUphtkA6nm6VTTABfOqfxdt+FtlHjv71reB51xQmMgVEDR+54m8D01ZprQcN/PxKhF9gi5xIIg==",
+  "success": true,
+  "projectFilePath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/edgardo/.nuget/packages/ardalis.guardclauses/3.1.0/ardalis.guardclauses.3.1.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/ardalis.specification/5.1.0/ardalis.specification.5.1.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/fluentvalidation/11.2.2/fluentvalidation.11.2.2.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.2.2/fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/jetbrains.annotations/2019.1.3/jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/edgardo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
