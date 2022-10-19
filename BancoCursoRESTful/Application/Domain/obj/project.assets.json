@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Domain/Domain.csproj",
+      "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Domain/Domain.csproj",
       "packagesPath": "/Users/edgardo/.nuget/packages/",
-      "outputPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Domain/obj/",
+      "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/edgardo/.nuget/NuGet/NuGet.Config"

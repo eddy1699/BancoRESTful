@@ -10,6 +10,7 @@ namespace Persistance
     {
         public static void AddPersistanceInfraestructure(this IServiceCollection services, IConfiguration configuration)
         {
+            //holamundo
            services.AddDbContext<ApplicationDbContext>(options=>options.UseSqlServer(
                 configuration.GetConnectionString("DefaultConnection"),
                 h => h.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));

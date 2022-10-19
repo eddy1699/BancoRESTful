@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vnrQRJHtuHUJF7L0rn7UHbgUI1UlYWqPe/IHxxluibgFyKpd18mIZpsTUEjR620SiLO0Cq8+GNEe9YaR9SDF1w==",
+  "dgSpecHash": "/u5s65yV8cScUswdzKxk14+Ms8BQCRqHPmCw9v8qqTzpt9zjpMDKhx0tvyVprTBfVWI2qgSjydL8i1QM2WQHDw==",
   "success": true,
-  "projectFilePath": "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+  "projectFilePath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/edgardo/.nuget/packages/ardalis.guardclauses/3.1.0/ardalis.guardclauses.3.1.0.nupkg.sha512",
     "/Users/edgardo/.nuget/packages/ardalis.specification/5.1.0/ardalis.specification.5.1.0.nupkg.sha512",

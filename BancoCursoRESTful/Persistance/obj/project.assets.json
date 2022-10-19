@@ -6160,11 +6160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Persistance.csproj",
+      "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Persistance.csproj",
+      "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj",
       "packagesPath": "/Users/edgardo/.nuget/packages/",
-      "outputPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/obj/",
+      "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/edgardo/.nuget/NuGet/NuGet.Config"
@@ -6179,8 +6179,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj": {
-              "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj"
+            "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj": {
+              "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj"
             }
           }
         }

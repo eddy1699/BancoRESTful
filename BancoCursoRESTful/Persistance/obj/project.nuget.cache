@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSYDBxfbP1yn8zfzit688601PF+hGQPGVnxgakUhocPb7FCR+vCPAqsdVxJ3MH3ymBTk0RxnTLWBemdFiwvXPQ==",
+  "dgSpecHash": "wMoHsy+htFkHIFsBub2oB/2AquGFv6GYn8LRXnDcI0WSC89uIDxavAiJ5gzmJ8/33X4NLocp7OcDip9EjSrVcw==",
   "success": true,
-  "projectFilePath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Persistance.csproj",
+  "projectFilePath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Persistance.csproj",
   "expectedPackageFiles": [
     "/Users/edgardo/.nuget/packages/ardalis.guardclauses/3.1.0/ardalis.guardclauses.3.1.0.nupkg.sha512",
     "/Users/edgardo/.nuget/packages/ardalis.specification/5.1.0/ardalis.specification.5.1.0.nupkg.sha512",

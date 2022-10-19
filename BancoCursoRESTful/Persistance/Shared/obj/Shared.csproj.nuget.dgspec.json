@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {}
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {}
   },
   "projects": {
-    "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
         "packagesPath": "/Users/edgardo/.nuget/packages/",
-        "outputPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/obj/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edgardo/.nuget/NuGet/NuGet.Config"

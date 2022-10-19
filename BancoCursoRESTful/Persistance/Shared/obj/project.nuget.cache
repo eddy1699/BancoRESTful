@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkWubNfj9StsVQPysqcl4xodFtIyACRh00GCpjumLU/F34Mlw1GBHfhYx0XxL9yau0qXNjgEDyUdjYLUsuAHwQ==",
+  "dgSpecHash": "CFj6T0Cqbc1sXkInxvGDEqrsxv9dNYBBWvZL/YY7y+uYSnptZH8N/tnyZ3dViozQ+uV6NdFNoguhSKc5lk6ZfQ==",
   "success": true,
-  "projectFilePath": "/Users/edgardo/Desktop/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
+  "projectFilePath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Persistance/Shared/Shared.csproj",
   "expectedPackageFiles": [
     "/Users/edgardo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/edgardo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"

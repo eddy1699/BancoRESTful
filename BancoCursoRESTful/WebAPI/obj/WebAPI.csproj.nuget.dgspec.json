@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/WebAPI.csproj": {}
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj": {
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj",
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj",
         "packagesPath": "/Users/edgardo/.nuget/packages/",
-        "outputPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/obj/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edgardo/.nuget/NuGet/NuGet.Config"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/WebAPI.csproj": {
+    "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+        "projectUniqueName": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/WebAPI.csproj",
+        "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/WebAPI.csproj",
         "packagesPath": "/Users/edgardo/.nuget/packages/",
-        "outputPath": "/Users/edgardo/Desktop/BancoCursoRESTful/WebAPI/obj/",
+        "outputPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edgardo/.nuget/NuGet/NuGet.Config"
@@ -115,8 +115,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj": {
-                "projectPath": "/Users/edgardo/Desktop/BancoCursoRESTful/Application/Application.csproj"
+              "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj": {
+                "projectPath": "/Users/edgardo/Desktop/DelRepo/BancoRESTful/BancoCursoRESTful/Application/Application.csproj"
               }
             }
           }
